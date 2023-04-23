@@ -5,9 +5,10 @@ Holinhed Studios is a software developer/publisher owned and operated by **Holin
 ## Contact
 
 **Website**: [Holinhed.com](https://holinhed.com)
+
 **Partner**: [FirehostRedux.com](https://firehostredux.com)
 
-**Email**: admin(at)holinhed(dot)com
+**Email**: admin (at) holinhed (dot) com
 
 ## Partners
 
