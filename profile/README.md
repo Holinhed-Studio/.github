@@ -12,7 +12,7 @@ Holinhed Studios is a software developer/publisher owned and operated by **Holin
 
 ## Partners
 
-**__FirehostRedux__**: FireHost has been our partner since 2018. Providing modded content that pushes bounderies in both creativity and complexity. FireHost provides some of the most refined and innovative content that you could find. They also provide top tier server hosting services. Of which many of our projects are hosted on.
+**<ins>FirehostRedux</ins>**: FireHost has been our partner since 2018. Providing modded content that pushes bounderies in both creativity and complexity. FireHost provides some of the most refined and innovative content that you could find. They also provide top tier server hosting services. Of which many of our projects are hosted on.
 
 ## Contributers
 
