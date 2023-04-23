@@ -1,6 +1,6 @@
 # Holinhed Studios
 
-Holinhed Studios is a software developer and publisher owned and operated by Holinhed LLC in conjunction with our partners. We specialize in providing high-quality software solutions to our clients. Here you will find our open-source projects that we or our partners have developed. Everything seen here is either marked as deprecated or is consistently being maintained or developed. Please contact one of the owners of the organization with questions or concerns about any of these projects. 
+Holinhed Studios is a software developer/publisher owned and operated by **Holinhed LLC** in conjunction with our partners. We specialize in providing high-quality software solutions to our clients. Here you will find our open-source projects that we or our partners have developed. Everything seen here is either marked as deprecated or is consistently being maintained or developed. Please contact one of the owners of the organization with questions or concerns about any of these projects. 
 
 ## Contact
 
