@@ -1,12 +1,19 @@
-## Hi there 👋
+# Holinhed Studios
 
-<!--
+Holinhed Studios is a software developer/publisher owned and operated by **Holinhed LLC** in conjuction with our partners. We specialize in providing high quality software solutions to our clients. Here you will find our open source projects that we or our partners have developed. Everything seen here is either marked as deperecated or consistantly being maintained or developed. Please contact one of the owners of the organization with questions or regards to any of these projects. 
 
-**Here are some ideas to get you started:**
+## Contact
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Website**: [Holinhed.com](https://holinhed.com)
+**Partner**: [FirehostRedux.com](https://firehostredux.com)
+
+**Email**: admin(at)holinhed(dot)com
+
+## Partners
+
+**FirehostRedux**: 
+
+## Contributers
+
+Contributing from outside the organization is allowed and encouraged! We attempt to keep our open source projects maintained and organized well. And any open issues or feature additions are always welcome! Make sure to follow formats for pull requests.
+
